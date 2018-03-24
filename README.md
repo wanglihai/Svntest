@@ -1,2 +1,0 @@
-# Svntest
-SVN测试
